@@ -1,5 +1,5 @@
 ### Hello... 👋
- -🔭 I’m currently working on Fivem Servers<br>
+ -🔭 I’m currently working on Nothing :(<br>
  -🌱 I’m currently learning Web and mobile app development<br>
  -🤔 I’m looking for help with Django development<br>
  -📫 How to reach me: via social media<br>
