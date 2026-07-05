@@ -1,7 +1,6 @@
 ### Hello... 👋
- -🔭 I’m currently working on Nothing :(<br>
- -🌱 I’m currently learning Web and mobile app development<br>
- -🤔 I’m looking for help with Django development<br>
+ -🔭 I’m currently working on Data annotation and labeling :(<br>
+ -🤔 I’m looking for help with Software development and testing <br>
  -📫 How to reach me: via social media<br>
 
 <!--
